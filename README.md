@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# new prime university web
