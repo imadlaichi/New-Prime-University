@@ -1,5 +1,3 @@
-// Layout.js
-
 import { Sora } from "@next/font/google";
 import Head from 'next/head';
 import TopLeftImg from "../components/TopLeftImg";
@@ -27,8 +25,24 @@ const Layout = ({ children }) => {
         <meta name="description" content="New Prime University" />
         <link rel="icon" href="/icon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        {/* Add the chatbot script */}
+        <script>
+          {`
+            window.embeddedChatbotConfig = {
+              chatbotId: "GDNghoqqcXk9Wr1zuCDI9",
+              domain: "www.chatbase.co"
+            };
+          `}
+        </script>
+        <script
+          src="https://www.chatbase.co/embed.min.js"
+          chatbotId="GDNghoqqcXk9Wr1zuCDI9"
+          domain="www.chatbase.co"
+          defer
+        ></script>
       </Head>
-      
+
       <TopLeftImg />
       <Nav />
       <Header />
