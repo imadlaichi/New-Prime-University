@@ -22,7 +22,7 @@ const Work = () => {
         </div>
         
         {/* slider */}
-        <motion.div variants={fadeIn("right",0.6)} initial="hidden" animate="show" 
+        <motion.div variants={fadeIn("right",0.6)} initial="hidden" animate="show"  
         className="w-full xl:max-w-[65%] xl:flex xl:flex-col">
           
           <ServiceSlider1/>

@@ -25,24 +25,24 @@ const aboutData = [
     title: 'Comunidad',
     info: [
       {
-        title: '- Comunidad llena de gente emprendedora y de alto valor',
+        title: '- 🌍Comunidad llena de gente emprendedora y de alto valor',
         
       
       },
       {
-        title: '- Staff Activo y soporte 24/7',
+        title: '- 🛠️Staff Activo y soporte 24/7',
         
       },
       {
-        title: '- Sorteos recurrentes',
+        title: '- 🏆Sorteos recurrentes',
         
       },
       {
-        title: '- Publicitate',
+        title: '- 📣Publicitate',
         
       },
       {
-        title: '- Marketplace',
+        title: '- 🎲Marketplace',
         
       },
     ],
@@ -51,91 +51,91 @@ const aboutData = [
     title: 'habilidades',
     info: [
       {
-        title: '- Dropshipping',
+        title: '- 🛍️Dropshipping',
         
       },
       {
-        title: '- Trading',
+        title: '- 🪙Trading',
         
       },
       {
-        title: '- Smma',
+        title: '- 📓Smma',
         
       },
       {
-        title: '- Programacion',
+        title: '- 💻Programacion',
         
       },
       {
-        title: '- Mindset',
+        title: '- 🧠Mindset',
         
       },
       {
-        title: '- Fitness',
+        title: '- 💪Fitness',
         
       },
       {
-        title: '- Edición de videos',
+        title: '- 📹Edición de videos',
         
       },
       {
-        title: '- Ventas',
+        title: '- 🪟Ventas',
         
       },
       {
-        title: '- Copywriting',
+        title: '- ⌨️Copywriting',
         
       },
       {
-        title: '- Inteligencia Artificial',
+        title: '- 🤖Inteligencia Artificial',
         
       },
       {
-        title: '- Inmobiliaria',
+        title: '- 🏠Inmobiliaria',
     
         
       },
       {
-        title: '- Nutricion',
+        title: '- 🥕Nutricion',
     
         
       },
       {
-        title: '- Seduccion',
+        title: '- 🕹️Seduccion',
     
         
       },
       {
-        title: '- Tiktok',
+        title: '- ⚡Tiktok',
     
         
       },
       {
-        title: '- Social Ads',
+        title: '- 📻Social Ads',
         
       },
       {
-        title: '- Creacion de cursos',
+        title: '- 📋Creacion de cursos',
         
       },
       {
-        title: '- Clothing Brand',
+        title: '- 👕Clothing Brand',
         
       },
       {
-        title: '- Themes Shopify',
+        title: '- 🛒Themes Shopify',
         
       },
       {
-        title: '- Reparación de teléfonos',
+        title: '- 📱Reparación de teléfonos',
         
       },
       {
-        title: '- WordPress Seo',
+        title: '- 👔WordPress Seo',
         
       },
       {
-        title: '- Amazon',
+        title: '- 📦Amazon',
         
       },
       {
@@ -150,43 +150,43 @@ const aboutData = [
     title: 'Contenido',
     info: [
       {
-        title: '- Canales de Youtube',
+        title: '- 🔴Canales de Youtube',
         
       },
       {
-        title: '- Curos de emprendedores famosos',
+        title: '- 🕑Curos de emprendedores famosos',
         
       },
       {
-        title: '- Libros',
+        title: '- 📚Libros',
         
       },
       {
-        title: '- Herramientas',
+        title: '- 🔧Herramientas',
         
       },
       {
-        title: '- Programas',
+        title: '- 🎮Programas',
         
       },
       {
-        title: '- Habitos',
+        title: '- 🔋Habitos',
         
       },
       {
-        title: '- Estudios',
+        title: '- ✍️Estudios',
         
       },
       {
-        title: '- Podcasts',
+        title: '- 🎧Podcasts',
         
       },
       {
-        title: '- Desarollo personal',
+        title: '- 📈Desarollo personal',
         
       },
       {
-        title: '- Mentalidad Ganadora',
+        title: '- 🧠Mentalidad Ganadora',
         
       },
     ],
@@ -195,15 +195,15 @@ const aboutData = [
     title: 'Desarollo',
     info: [
       {
-        title: '- Rutinas de Gym',
+        title: '- 🏋️Rutinas de Gym',
         
       },
       {
-        title: '- Rutinas de Casa/Calistenia',
+        title: '- 🤸Rutinas de Casa/Calistenia',
         
       },
       {
-        title: '- Rutinas de Cara y Piel',
+        title: '- 💆Rutinas de Cara y Piel',
         
       },
     ],
