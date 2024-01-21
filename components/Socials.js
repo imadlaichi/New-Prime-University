@@ -22,7 +22,7 @@ const Socials = () => {
     <Link href={""} className="hover:text-secondary transition-all duration-300 text-2xl">
       <RiTwitterLine/>
     </Link>
-    <Link href={""} className="hover:text-secondary transition-all duration-300 text-2xl">
+    <Link href={"https://es.trustpilot.com/review/new-prime-university.netlify.app"} className="hover:text-secondary transition-all duration-300 text-2xl">
       <RiStarLine/>
     </Link>
   </div>;
