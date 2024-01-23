@@ -18,7 +18,7 @@ const Testimonial = () => {
         <motion.h2 variants={fadeIn("up",0.2)} initial="hidden" animate="show" exit="hidden" 
         className="h2 xl:mt-8">Mira lo que dicen de nosotros<span className="text-accent"></span></motion.h2>
         <motion.p variants={fadeIn("up",0.4)} initial="hidden" animate="show" exit="hidden" 
-        className="mb-4 max-w-[400px] mx-auto lg:mx-0">Si aún no estas convencido de entrar a New Prime University puedes ver las valoraciones de la gente que ya está dentro:</motion.p>
+        className="mb-4 max-w-[400px] mx-auto lg:mx-0">Si aún no estas convencido de entrar a New Prime University puedes ver las valoraciones de Tristpilot de la gente que ya está dentro:</motion.p>
         </div>
         
         {/* slider */}
