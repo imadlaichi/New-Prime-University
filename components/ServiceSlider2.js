@@ -17,7 +17,7 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'Samuel Diaz',
-    description: '⭐⭐⭐⭐⭐/Esta muy bueno el server muy completo la verdad tienen cursos valiosos ',
+    description: '⭐⭐⭐⭐⭐/ Esta muy bueno el server muy completo la verdad tienen cursos valiosos ',
   },
   {
     icon: <RxDiscordLogo/>,
@@ -27,7 +27,7 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'Manuel.Torres_',
-    description: '⭐⭐⭐⭐⭐/Que gran server, fue lo que esperaba',
+    description: '⭐⭐⭐⭐⭐/ Que gran server, fue lo que esperaba',
   },
   {
     icon: <RxDiscordLogo/>,
