@@ -12,52 +12,52 @@ const serviceData = [
    {
     icon: <RxDiscordLogo/>,
     title: 'Sara',
-    description: '⭐⭐⭐⭐⭐/ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!!',
+    description: '⭐⭐⭐⭐⭐ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!!',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Samuel Diaz',
-    description: '⭐⭐⭐⭐⭐/ Esta muy bueno el server muy completo la verdad tienen cursos valiosos ',
+    description: '⭐⭐⭐⭐⭐ Esta muy bueno el server muy completo la verdad tienen cursos valiosos ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Joaquín Hernández',
-    description: '⭐⭐⭐⭐⭐/ Son increibles, la mejor comunidad!',
+    description: '⭐⭐⭐⭐⭐ Son increibles, la mejor comunidad!',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Manuel.Torres_',
-    description: '⭐⭐⭐⭐⭐/ Que gran server, fue lo que esperaba',
+    description: '⭐⭐⭐⭐⭐ Que gran server, fue lo que esperaba',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'NICOLAS serrano PALOMINO',
-    description: '⭐⭐⭐⭐⭐/ Uno de los mejores servidores de Discord, dan mucha información gratis y de buena calidad, poca gente así, lo recomiendo',
+    description: '⭐⭐⭐⭐⭐ Uno de los mejores servidores de Discord, dan mucha información gratis y de buena calidad, poca gente así, lo recomiendo',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Luis Lara',
-    description: '⭐⭐⭐⭐⭐/ Es el mejor grupo para poder crecer gratuitamente ! Las 5 estrellas se las lleva mas que merecidas por todo el contenido gratuito que tiene !!',
+    description: '⭐⭐⭐⭐⭐ Es el mejor grupo para poder crecer gratuitamente ! Las 5 estrellas se las lleva mas que merecidas por todo el contenido gratuito que tiene !!',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Imad Laichi',
-    description: '⭐⭐⭐⭐⭐/ Una experiencia increíble. Este servidor de emprendimiento es el mejor que he encontrado. Ofrece una variedad de contenido para aprender y crecer, y la comunidad es positiva y llena de personas de alto valor. Muy recomendado.🎓',
+    description: '⭐⭐⭐⭐⭐ Este servidor de emprendimiento es el mejor que he encontrado. Ofrece una variedad de contenido para aprender y crecer, y la comunidad es positiva y llena de personas de alto valor. Muy recomendado.🎓',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Usuario 8',
-    description: '⭐⭐⭐⭐⭐/ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
+    description: '⭐⭐⭐⭐⭐ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Usuario 9',
-    description: '⭐⭐⭐⭐⭐/ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
+    description: '⭐⭐⭐⭐⭐ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Usuario 10',
-    description: '⭐⭐⭐⭐⭐/ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
+    description: '⭐⭐⭐⭐⭐ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   
   
