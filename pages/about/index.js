@@ -42,7 +42,19 @@ const aboutData = [
         
       },
       {
-        title: '- 🎲Marketplace',
+        title: '- 👷Busca Trabajo',
+        
+      },
+       {
+        title: '- 💼Ofrece tus servicios',
+        
+      },
+      {
+        title: '- 📈Reuniones',
+        
+      },
+      {
+        title: '- 🧊Mentorias',
         
       },
     ],
@@ -253,7 +265,7 @@ const About = () => {
             <div className="reative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 
             after:right-0 ">
               <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                <CountUp start={0} end={135} duration={5}/> +
+                <CountUp start={0} end={142} duration={5}/> +
                 </div>
               <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Miembros</div>
             </div>
@@ -261,7 +273,7 @@ const About = () => {
             <div className="reative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 
             after:right-0 ">
               <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                <CountUp start={0} end={170} duration={5}/> +
+                <CountUp start={0} end={180} duration={5}/> +
                 </div>
               <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Cursos</div>
             </div>
@@ -269,7 +281,7 @@ const About = () => {
             <div className="reative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 
             after:right-0 ">
               <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                <CountUp start={0} end={1500} duration={5}/> €+
+                <CountUp start={0} end={1600} duration={5}/> €+
                 </div>
               <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Valor</div>
             </div>
