@@ -201,6 +201,18 @@ const aboutData = [
         title: '- 🧠Mentalidad Ganadora',
         
       },
+      {
+        title: '- 💿Material edición de videos',
+        
+      },
+      {
+        title: '- 🔭Clips para tus videos',
+        
+      },
+       {
+        title: '- 📗Temas de shopify',
+        
+      },
     ],
   },
   {
