@@ -46,8 +46,8 @@ const serviceData = [
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Usuario 8',
-    description: '⭐⭐⭐⭐⭐ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
+    title: 'Edwin “TecnoAtraccion” Officia',
+    description: '⭐⭐⭐⭐ Espléndida bienvenida y muy increíble.,
   },
   {
     icon: <RxDiscordLogo/>,
