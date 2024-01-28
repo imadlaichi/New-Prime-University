@@ -9,55 +9,55 @@ import {
 } from "react-icons/rx";
 
 const serviceData = [
-   {
+  {
     icon: <RxDiscordLogo/>,
-    title: 'Sara',
-    description: '⭐⭐⭐⭐⭐ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!!',
+    title: 'Usuario 1',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais ) ',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Samuel Diaz',
-    description: '⭐⭐⭐⭐⭐ Esta muy bueno el server muy completo la verdad tienen cursos valiosos ',
+    title: 'Usuario 2',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Joaquín Hernández',
-    description: '⭐⭐⭐⭐⭐ Son increibles, la mejor comunidad!',
+    title: 'Usuario 3',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Manuel.Torres_',
-    description: '⭐⭐⭐⭐⭐ Que gran server, fue lo que esperaba',
+    title: 'Usuario 4',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'NICOLAS serrano PALOMINO',
-    description: '⭐⭐⭐⭐⭐ Uno de los mejores servidores de Discord, dan mucha información gratis y de buena calidad, poca gente así, lo recomiendo',
+    title: 'Usuario 5',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Luis Lara',
-    description: '⭐⭐⭐⭐⭐ Es el mejor grupo para poder crecer gratuitamente ! Las 5 estrellas se las lleva mas que merecidas por todo el contenido gratuito que tiene !!',
+    title: 'Usuario 6',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Imad Laichi',
-    description: '⭐⭐⭐⭐⭐ Este servidor de emprendimiento es el mejor que he encontrado. Ofrece una variedad de contenido para aprender y crecer, y la comunidad es positiva y llena de personas de alto valor. Muy recomendado.🎓',
+    title: 'Usuario 7',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
-    title: 'Edwin “TecnoAtraccion” Officia',
-    description: '⭐⭐⭐⭐ Espléndida bienvenida y muy increíble.,
+    title: 'Usuario 8',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Usuario 9',
-    description: '⭐⭐⭐⭐⭐ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Usuario 10',
-    description: '⭐⭐⭐⭐⭐ El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
+    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
   },
   
   
