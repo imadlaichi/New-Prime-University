@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /private/        
+Disallow: /secret-page    
+Disallow: /admin/         
+Allow: /public/          
+
+User-agent: Googlebot
+Disallow: /restricted/     
+
+Sitemap: https://new-prime-university.netlify.app/sitemap.xml
