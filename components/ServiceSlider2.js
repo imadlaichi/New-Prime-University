@@ -47,7 +47,7 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'terremotolava',
-    description: '⭐⭐⭐⭐⭐ Muy alegres con estés discord, me ha servido mucho para poder formarme, y aprender de todo. Espero que hallan más discord's como este. Un saludo ^_^',
+    description: '⭐⭐⭐⭐⭐ Muy alegres con estés discord, me ha servido mucho para poder formarme, y aprender de todo',
   },
    {
     icon: <RxDiscordLogo/>,
@@ -57,7 +57,7 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'Joshua',
-    description: '⭐⭐⭐⭐⭐  Lo que me gusta de prime es su contenido de alto valor, lo mejor es que es gratuito.',
+    description: '⭐⭐⭐⭐⭐  Lo que me gusta de prime es su contenido de alto valor, lo mejor es que es gratuito',
   },
   {
     icon: <RxDiscordLogo/>,
