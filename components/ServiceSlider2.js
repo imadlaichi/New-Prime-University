@@ -39,6 +39,61 @@ const serviceData = [
     title: 'Luis Lara',
     description: '⭐⭐⭐⭐⭐ Es el mejor grupo para poder crecer gratuitamente ! Las 5 estrellas se las lleva mas que merecidas por todo el contenido gratuito que tiene !!',
   },
+   {
+    icon: <RxDiscordLogo/>,
+    title: 'Garci Bx',
+    description: '⭐⭐⭐⭐⭐ El mejor sitio para aprender y para conocer gente, es increible como te acojen y te explican cada cosa de la cual tienes duda',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'terremotolava',
+    description: '⭐⭐⭐⭐⭐ Muy alegres con estés discord, me ha servido mucho para poder formarme, y aprender de todo. Espero que hallan más discord's como este. Un saludo ^_^',
+  },
+   {
+    icon: <RxDiscordLogo/>,
+    title: 'cliente',
+    description: '⭐⭐⭐⭐⭐ Un servidor muy completo. Si quieres empezar en el mundo de el emprendimiento, lo recomiendo un montón!!!',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Joshua',
+    description: '⭐⭐⭐⭐⭐  Lo que me gusta de prime es su contenido de alto valor, lo mejor es que es gratuito.',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'iYounse',
+    description: '⭐⭐⭐⭐⭐  El mejor servidor si quieres empezar a formarte y ganar dinero',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Manuela Pérez',
+    description: '⭐⭐⭐⭐⭐  Gran server el de New Prime University, muy amigable y muchos recursos',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Roger Cases',
+    description: '⭐⭐⭐⭐⭐  Muy buen club de emprendiento. Completo y actualizado',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Brais _pk',
+    description: '⭐⭐⭐⭐⭐  Genial, gente muy interesante y mucho contenido de valor',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Tex_YT',
+    description: '⭐⭐⭐⭐⭐  Es una faking bestialidad, uno de los mejores servers en los que he estado',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Yoel',
+    description: '⭐⭐⭐⭐⭐  Muy interesante lo que te pueden llegar a aportar',
+  },
+  {
+    icon: <RxDiscordLogo/>,
+    title: 'Samuel Diaz',
+    description: '⭐⭐⭐⭐⭐  Esta muy bueno el server muy completo la verdad tienen cursos valiosos',
+  },
   {
     icon: <RxDiscordLogo/>,
     title: 'Imad Laichi',
@@ -49,16 +104,7 @@ const serviceData = [
     title: 'TecnoAtraccion” Officia',
     description: '⭐⭐⭐⭐ Espléndida bienvenida y muy increíble',
   },
-  {
-    icon: <RxDiscordLogo/>,
-    title: 'Usuario 9',
-    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
-  },
-  {
-    icon: <RxDiscordLogo/>,
-    title: 'Usuario 10',
-    description: '(⭐⭐⭐⭐⭐ )  El server esta bien pero le faltan cosas.... ( Poner lo que querais )',
-  },
+ 
   
   
 
