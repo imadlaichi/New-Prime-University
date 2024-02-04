@@ -6,24 +6,39 @@ import {
   HiRectangleGroup,
   HiChatBubbleBottomCenterText,
   HiEnvelope,
+  HiTrophy,
+  HiShoppingBag,
 } from 'react-icons/hi2';
 
 // nav data
 export const navData = [
   { name: 'Inicio', path: '/', icon: <HiHome /> },
   { name: 'Sobre Nosotros', path: '/about', icon: <HiUser /> },
+  {
+    name: 'Servicios',
+    path: '/agency',
+    icon: <HiShoppingBag />,
+  },
   { name: 'Cursos', path: '/services', icon: <HiRectangleGroup /> },
   { name: 'Recursos', path: '/work', icon: <HiViewColumns /> },
+  
   {
     name: 'Testimonios',
     path: '/testimonials',
     icon: <HiChatBubbleBottomCenterText />,
   },
   {
+    name: 'Recompensas',
+    path: '/pass',
+    icon: <HiTrophy />,
+  },
+  {
     name: 'Contacto',
     path: '/contact',
     icon: <HiEnvelope />,
   },
+  
+  
 ];
 
 // next link
