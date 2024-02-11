@@ -133,7 +133,7 @@ const serviceData = [
     {
     icon: "💵",
     title: 'Finanzas y economia',
-    description: 'Desarrolla tus habilidades en finanzas y economía para tomar decisiones estratégicas con confianza y éxito empresarial.',
+    description: 'Desarrolla tus habilidades en finanzas y economía para tomar decisiones estratégicas con confianza.',
   },
   {
     icon: "🪮",
