@@ -47,24 +47,28 @@ const serviceData = [
   {
     icon: "📋",
     title: 'Estudios',
-    description: 'Mejora tu rendiminto académico gracias a diversos recursos y consejos.',
+    description: 'Mejora tu rendiminto académico gracias a diversos recursos y consejos.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "🎧",
     title: 'Podcasts',
-    description: 'Descubre y escucha los mejores podcasts de desarollo personal y emprendiminto.',
+    description: 'Descubre y escucha los mejores podcasts de desarollo personal y emprendiminto.ㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "📈",
     title: 'Desarollo Personal',
-    description: 'Desarollat gracias a una variedad de cursos de desarollo personal.',
+    description: 'Desarollat gracias a una variedad de cursos de desarollo personal.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "🧠",
     title: 'Mentalidad',
-    description: 'Desarolla una mentalidad ganadora y aprende como pensar fuera de la caja.',
+    description: 'Desarolla una mentalidad ganadora y aprende como pensar fuera de la caja.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
-  
+  {
+    icon: "💸",
+    title: 'Métodos de dinero',
+    description: 'Consigue y descubre métodos inovadores para ganar dinero online.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
+  },
 
 ];
 
@@ -91,7 +95,7 @@ const ServiceSlider = () => {
       >
         {serviceData.map((item, index) => (
           <SwiperSlide key={index}>
-            <div className='bg-[rgba(255,255,255,0.15)] h-max rounded-lg px-6 py-8 flex sm:flex-col gap-x-6 sm:gap-x-0 group cursor-pointer hover:bg-[rgba(255,255,255,0.25)] transition-all duration-300'>
+            <div className='bg-gradient-to-b from-[#919191] to-[#000000] h-max rounded-lg px-6 py-8 flex sm:flex-col gap-x-6 sm:gap-x-0 group cursor-pointer hover:bg-[rgba(255,255,255,0.25)] transition-all duration-300'>
               <div className="text-4xl text-accent mb-4">{item.icon}</div>
               <div className="mb-8">
                 <div className="mb-2 text-lg">{item.title}</div>
