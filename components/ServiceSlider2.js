@@ -12,22 +12,22 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'Sara',
-    description: '⭐⭐⭐⭐⭐ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!!',
+    description: '⭐⭐⭐⭐⭐ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!! ㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Samuel Diaz',
-    description: '⭐⭐⭐⭐⭐ Esta muy bueno el server muy completo la verdad tienen cursos valiosos',
+    description: '⭐⭐⭐⭐⭐ Esta muy bueno el server muy completo la verdad tienen cursos valiososㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Joaquín Hernández',
-    description: '⭐⭐⭐⭐⭐ Son increibles, la mejor comunidad!',
+    description: '⭐⭐⭐⭐⭐ Son increibles, la mejor comunidad!ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Manuel.Torres_',
-    description: '⭐⭐⭐⭐⭐ Que gran server, fue lo que esperaba',
+    description: '⭐⭐⭐⭐⭐ Que gran server, fue lo que esperabaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
@@ -47,62 +47,62 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'terremotolava',
-    description: '⭐⭐⭐⭐⭐ Muy alegres con estés discord, me ha servido mucho para poder formarme, y aprender de todo',
+    description: '⭐⭐⭐⭐⭐ Muy alegres con estés discord, me ha servido mucho para poder formarme, y aprender de todoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
    {
     icon: <RxDiscordLogo/>,
     title: 'cliente',
-    description: '⭐⭐⭐⭐⭐ Un servidor muy completo. Si quieres empezar en el mundo de el emprendimiento, lo recomiendo un montón!!!',
+    description: '⭐⭐⭐⭐⭐ Un servidor muy completo. Si quieres empezar en el mundo de el emprendimiento, lo recomiendo un montón!!! ㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Joshua',
-    description: '⭐⭐⭐⭐⭐  Lo que me gusta de prime es su contenido de alto valor, lo mejor es que es gratuito',
+    description: '⭐⭐⭐⭐⭐  Lo que me gusta de prime es su contenido de alto valor, lo mejor es que es gratuitoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'iYounse',
-    description: '⭐⭐⭐⭐⭐  El mejor servidor si quieres empezar a formarte y ganar dinero',
+    description: '⭐⭐⭐⭐⭐  El mejor servidor si quieres empezar a formarte y ganar dineroㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Manuela Pérez',
-    description: '⭐⭐⭐⭐⭐  Gran server el de New Prime University, muy amigable y muchos recursos',
+    description: '⭐⭐⭐⭐⭐  Gran server el de New Prime University, muy amigable y muchos recursosㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Roger Cases',
-    description: '⭐⭐⭐⭐⭐  Muy buen club de emprendiento. Completo y actualizado',
+    description: '⭐⭐⭐⭐⭐  Muy buen club de emprendiento. Completo y actualizadoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Brais _pk',
-    description: '⭐⭐⭐⭐⭐  Genial, gente muy interesante y mucho contenido de valor',
+    description: '⭐⭐⭐⭐⭐  Genial, gente muy interesante y mucho contenido de valorㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Tex_YT',
-    description: '⭐⭐⭐⭐⭐  Es una faking bestialidad, uno de los mejores servers en los que he estado',
+    description: '⭐⭐⭐⭐⭐  Es una faking bestialidad, uno de los mejores servers en los que he estadoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Yoel',
-    description: '⭐⭐⭐⭐⭐  Muy interesante lo que te pueden llegar a aportar',
+    description: '⭐⭐⭐⭐⭐  Muy interesante lo que te pueden llegar a aportarㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Samuel Diaz',
-    description: '⭐⭐⭐⭐⭐  Esta muy bueno el server muy completo la verdad tienen cursos valiosos',
+    description: '⭐⭐⭐⭐⭐  Esta muy bueno el server muy completo la verdad tienen cursos valiososㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Imad Laichi',
-    description: '⭐⭐⭐⭐⭐ Este servidor de emprendimiento es el mejor que he encontrado. Ofrece una variedad de contenido para aprender y crecer, y la comunidad es positiva y llena de personas de alto valor. Muy recomendado.🎓',
+    description: '⭐⭐⭐⭐⭐ Este servidor de emprendimiento es el mejor que he encontrado.🎓ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'TecnoAtraccion” Officia',
-    description: '⭐⭐⭐⭐ Espléndida bienvenida y muy increíble',
+    description: '⭐⭐⭐⭐ Espléndida bienvenida y muy increíbleㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
  
   
