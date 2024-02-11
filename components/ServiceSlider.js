@@ -17,7 +17,7 @@ const serviceData = [
   {
     icon: "🪙",
     title: 'Trading',
-    description: 'Descubre las estrategias y técnicas para operar en los mercados financieros.',
+    description: 'Descubre las estrategias y técnicas para operar en los mercados financieros.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "💻",
@@ -27,12 +27,12 @@ const serviceData = [
   {
     icon: "⌨️",
     title: 'Copywriting',
-    description: 'Perfecciona tus habilidades de redacción persuasiva para crear contenido efectivo.',
+    description: 'Perfecciona tus habilidades de redacción persuasiva para crear contenido efectivo.ㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "📓",
     title: 'Smma',
-    description: 'Aprende a ofrecer servicios de marketing digital a pequeñas y medianas empresas.',
+    description: 'Aprende a ofrecer servicios de marketing digital a pequeñas y medianas empresas.ㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "💪",
@@ -47,12 +47,12 @@ const serviceData = [
   {
     icon: "🏠",
     title: 'Inmobiliaria',
-    description: 'Conoce los fundamentos del mercado inmobiliario y las inversiones en bienes raíces.',
+    description: 'Conoce los fundamentos del mercado inmobiliario y las inversiones en bienes raíces.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "📻",
     title: 'Social Ads',
-    description: 'Aprende a crear y gestionar campañas publicitarias efectivas en redes sociales.',
+    description: 'Aprende a crear y gestionar campañas publicitarias efectivas en redes sociales.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: "🦾",
@@ -95,7 +95,7 @@ const ServiceSlider = () => {
       >
         {serviceData.map((item, index) => (
           <SwiperSlide key={index}>
-            <div className='bg-[rgba(255,255,255,0.15)] h-max rounded-lg px-6 py-8 flex sm:flex-col gap-x-6 sm:gap-x-0 group cursor-pointer hover:bg-[rgba(255,255,255,0.25)] transition-all duration-300'>
+            <div className='bg-gradient-to-b from-[#919191] to-[#000000] h-max rounded-lg px-6 py-8 flex sm:flex-col gap-x-6 sm:gap-x-0 group cursor-pointer hover:bg-[rgba(255,255,255,0.25)] transition-all duration-300'>
               <div className="text-4xl text-accent mb-4">{item.icon}</div>
               <div className="mb-8">
                 <div className="mb-2 text-lg">{item.title}</div>
