@@ -12,22 +12,22 @@ const serviceData = [
   {
     icon: <RxDiscordLogo/>,
     title: 'Sara',
-    description: '⭐⭐⭐⭐⭐ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!! ㅤㅤㅤㅤㅤㅤ',
+    description: '⭐⭐⭐⭐⭐ Increíble todo el contenido de valor que hay en esta comunidad. Súper recomendable!!! ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Samuel Diaz',
-    description: '⭐⭐⭐⭐⭐ Esta muy bueno el server muy completo la verdad tienen cursos valiososㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
+    description: '⭐⭐⭐⭐⭐ Esta muy bueno el server muy completo la verdad tienen cursos valiososㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Joaquín Hernández',
-    description: '⭐⭐⭐⭐⭐ Son increibles, la mejor comunidad!ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
+    description: '⭐⭐⭐⭐⭐ Son increibles, la mejor comunidad!ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
     title: 'Manuel.Torres_',
-    description: '⭐⭐⭐⭐⭐ Que gran server, fue lo que esperabaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
+    description: '⭐⭐⭐⭐⭐ Que gran server, fue lo que esperabaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
     icon: <RxDiscordLogo/>,
