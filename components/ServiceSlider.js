@@ -25,6 +25,11 @@ const serviceData = [
     description: 'Desarrolla habilidades de programación y codificación para crear aplicaciones y sitios web.',
   },
   {
+    icon: "📈",
+    title: 'Ventas y Setter',
+    description: 'Perfecciona tus habilidades en ventas para cerrar acuerdos exitosos y alcanzar tus metas comerciales con eficacia',
+  },
+  {
     icon: "⌨️",
     title: 'Copywriting',
     description: 'Perfecciona tus habilidades de redacción persuasiva para crear contenido efectivo.ㅤㅤㅤㅤㅤㅤㅤ',
@@ -34,6 +39,7 @@ const serviceData = [
     title: 'Smma',
     description: 'Aprende a ofrecer servicios de marketing digital a pequeñas y medianas empresas.ㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
+
   {
     icon: "💪",
     title: 'Fitness',
@@ -41,8 +47,13 @@ const serviceData = [
   },
   {
     icon: "📦",
-    title: 'Amazon',
+    title: 'Amazon Fba',
     description: 'Descubre estrategias para vender productos en la plataforma de comercio electrónico Amazon.',
+  },
+    {
+    icon: "📱",
+    title: 'Tiktok',
+    description: 'Aprende a crear contenido cautivador en TikTok y destaca en esta plataforma de alcance global.',
   },
   {
     icon: "🏠",
@@ -55,6 +66,36 @@ const serviceData = [
     description: 'Aprende a crear y gestionar campañas publicitarias efectivas en redes sociales.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
   },
   {
+    icon: "🤖",
+    title: 'IA y Prompts',
+    description: 'Desarrolla tu expertise en inteligencia artificial para impulsar tus negocios con herramientas secretas.',
+  },
+    {
+    icon: "🔴",
+    title: 'Youtube',
+    description: 'Descubre las claves para crear contenido exitoso en YouTube y destacar en esta plataforma de videos.',
+  },
+  {
+    icon: "🗣️",
+    title: 'Aprendizaje de idiomas',
+    description: 'Aprende y domina nuevos idiomas de manera sencilla para enriquecer tu comunicación internacional.ㅤㅤ',
+  },
+   {
+    icon: "🚫",
+    title: 'Seduccion',
+    description: 'Domina el arte de la seducción para crear conexiones significativas y relaciones exitosas."ㅤㅤ',
+  },
+  {
+    icon: "📂",
+    title: 'Creacion de cursos',
+    description: 'Perfecciona tu habilidad en la creación de cursos para inspirar el aprendizaje y el desarrollo personal en otros.',
+  },
+  {
+    icon: "🎨",
+    title: 'Diseño gráfico',
+    description: 'Desarolla tu creatividad y aprende a ofrecer tus servicios de diseño grafico como un profesional.ㅤㅤ',
+  },
+  {
     icon: "🦾",
     title: 'Wordpress Seo',
     description: 'Optimiza tu sitio web de WordPress para mejorar su visibilidad en los motores de búsqueda.',
@@ -62,12 +103,42 @@ const serviceData = [
   {
     icon: "👕",
     title: 'Clothing Brand',
-    description: 'Crea y gestiona tu propia marca de ropa, desde el diseño hasta la comercialización.',
+    description: 'Crea y gestiona tu propia marca de ropa, desde el diseño hasta la comercialización.ㅤㅤㅤㅤㅤㅤㅤㅤㅤ',
+  },
+  {
+    icon: "🚚",
+    title: 'Reparacion de celulares',
+    description: 'Conviértete en un experto en reparación de celulares para solucionar problemas tecnológicos con precisión.',
   },
   {
     icon: "🛒",
     title: 'Shopify Themes',
     description: 'Descubre cómo utilizar y personalizar temas en la plataforma de comercio electrónico Shopify.',
+  },
+  {
+    icon: "📸",
+    title: 'Fotoperiodismo y Fotografia',
+    description: 'Desarrolla habilidades de fotografía y periodismo de alta calidad para destacar en tu carrera.ㅤㅤ',
+  },
+   {
+    icon: "💿",
+    title: 'Edicion de videos',
+    description: 'Perfecciona tus habilidades en edición de videos para crear contenido visual impactante y cautivador.',
+  },
+  {
+    icon: "🖥️",
+    title: 'Ofimatica',
+    description: 'Adquiere competencias en el manejo de herramientas de ofimática, como Excel, para optimizar tu desempeño profesional.',
+  },
+    {
+    icon: "💵",
+    title: 'Finanzas y economia',
+    description: 'Desarrolla tus habilidades en finanzas y economía para tomar decisiones estratégicas con confianza y éxito empresarial.',
+  },
+  {
+    icon: "🪮",
+    title: 'Barbería',
+    description: 'Conviertete en un profesional de los cortes de pelo y barba con nuestro curso profesional.ㅤㅤ',
   },
 
 ];
