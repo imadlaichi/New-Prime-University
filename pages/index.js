@@ -18,6 +18,26 @@ import Head from 'next/head';
 
 const Home = () => {
   return (
+<div className="bg-primary/60 h-full relative overflow-hidden">
+      {/* badge */}
+      <a
+        className="copyrighted-badge absolute bottom-2 left-2 z-10"
+        title="Copyrighted.com Registered &amp; Protected"
+        target="_blank"
+        href="https://app.copyrighted.com/website/qSCxo2ScWWigcxQt"
+      >
+        <img
+          alt="Copyrighted.com Registered &amp; Protected"
+          border="0"
+          width="125"
+          height="25"
+          srcset="https://static.copyrighted.com/badges/125x25/02_2_2x.png 2x"
+          src="https://static.copyrighted.com/badges/125x25/02_2.png"
+        />
+      </a>
+
+
+    
     <div className="bg-primary/60 h-full">
       {/* head */}
       <Head>
