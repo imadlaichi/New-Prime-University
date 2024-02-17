@@ -50,6 +50,10 @@ const aboutData = [
         
       },
       {
+        title: '- 🌐Propuestas',
+        
+      },
+      {
         title: '- 📈Reuniones',
         
       },
