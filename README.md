@@ -1,6 +1,12 @@
-# Página web oficial de New Prime University
+<!--
+  _  _              ___     _             _   _      _                _ _        
+ | \| |_____ __ __ | _ \_ _(_)_ __  ___  | | | |_ _ (_)_ _____ _ _ __(_) |_ _  _ 
+ | .` / -_) V  V / |  _/ '_| | '  \/ -_) | |_| | ' \| \ V / -_) '_(_-< |  _| || |
+ |_|\_\___|\_/\_/  |_| |_| |_|_|_|_\___|  \___/|_||_|_|\_/\___|_| /__/_|\__|\_, |
+                                                                            |__/
+-->
 
-Todos los derechos reservados New Prime University©
+# Página web oficial de New Prime University
 
 En New Prime University, nos complace presentar nuestra nueva página web, resultado del esfuerzo colaborativo y la dedicación de nuestro talentoso equipo de desarrollo. Queremos expresar nuestro sincero agradecimiento a cada miembro por su compromiso y dedicación para hacer posible este proyecto.
 
@@ -16,4 +22,15 @@ En New Prime University, estamos comprometidos a proporcionar apoyo y recursos a
 
 ---
 
-Visita [New Prime University](https://www.newprimeuniversity.com).*
+Visita [New Prime University](https://www.newprimeuniversity.com).
+
+Únete a nuestro [Discord](discord.gg/94zgp6VYt8).
+
+A Cerca del desarollador:
+- Principal Desarrollador [Imadlaichi](https://github.com/imadlaichi).
+<!--Añade tu descripcion-->
+A Cerca de los colaboradores:
+- Colaborador principal: [Nisamov](https://github.com/Nisamov).
+  - Nisamov es un desarollador activo que ha aportado a este repositorio una mejora en la presentación de la página, cuenta con varios proyectos activos, principalmente trabajdno en [LinuxCommands](https://github.com/Theritex/LinuxCommands/).
+
+Todos los derechos reservados New Prime University©
