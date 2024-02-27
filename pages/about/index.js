@@ -281,7 +281,7 @@ const About = () => {
             <div className="reative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 
             after:right-0 ">
               <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                <CountUp start={0} end={580} duration={5}/> +
+                <CountUp start={0} end={600} duration={5}/> +
                 </div>
               <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Miembros</div>
             </div>
@@ -289,7 +289,7 @@ const About = () => {
             <div className="reative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 
             after:right-0 ">
               <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                <CountUp start={0} end={190} duration={5}/> +
+                <CountUp start={0} end={210} duration={5}/> +
                 </div>
               <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Cursos</div>
             </div>
@@ -297,7 +297,7 @@ const About = () => {
             <div className="reative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 
             after:right-0 ">
               <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                <CountUp start={0} end={2500} duration={5}/> €+
+                <CountUp start={0} end={3000} duration={5}/> €+
                 </div>
               <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">Valor</div>
             </div>
