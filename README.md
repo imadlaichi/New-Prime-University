@@ -31,6 +31,6 @@ A Cerca del desarollador:
 <!--Añade tu descripcion-->
 A Cerca de los colaboradores:
 - Colaborador principal: [Nisamov](https://github.com/Nisamov).
-  - Nisamov es un desarollador activo que ha aportado a este repositorio una mejora en la presentación de la página, cuenta con varios proyectos activos, principalmente trabajdno en [LinuxCommands](https://github.com/Theritex/LinuxCommands/).
+  - Nisamov es un desarollador activo que ha aportado a este repositorio una mejora en la presentación de la página, cuenta con varios proyectos activos, como por ejemplo [LinuxCommands](https://github.com/Theritex/LinuxCommands/), o [AutoNetplan](https://github.com/Nisamov/auto-netplan).
 
 Todos los derechos reservados New Prime University©
